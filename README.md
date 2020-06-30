@@ -18,4 +18,4 @@ Watch for the license file in each our repository to better understand which lic
 
 ## Contribute
 
-Alongside working taking place on our Open-Source strategy, we are currently actively working at revising (and clarifying) our contributing guidelines. Expect more in the coming months, in the meantime you can reach us at 
+Alongside working taking place on our Open-Source strategy, we are currently actively working at revising (and clarifying) our contributing guidelines. Expect more in the coming months.
