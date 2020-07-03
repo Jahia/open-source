@@ -10,7 +10,7 @@ Jahia has a long history of contribution to Open-Source, you will find in this r
 
 Jahia GitHub organization has a fairly large number of open-source repositories, and many new ones get created every week. With the exception of some of the legacy parts of the codebase, each of our Jahia modules have their own repository, named identically (or similarly) to the module ID. 
 
-You can also repository topics available from [Jahia Organization](https://github.com/Jahia) (right side of the screen) to quickly access the list of product modules. 
+You can also repository topics available from [Jahia Organization](https://github.com/Jahia) (right side of the screen) to quickly access the [list of product modules](https://github.com/search?q=topic%3Aproduct+org%3AJahia). 
 
 ## Licenses
 
