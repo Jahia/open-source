@@ -6,7 +6,13 @@
 
 Jahia has a long history of contribution to Open-Source, you will find in this repository resources to help you discover our product, its codebase, and our open-source practices. 
 
-## Licensing
+## Discover
+
+Jahia GitHub organization has a fairly large number of open-source repositories, and many new ones get created every week. With the exception of some of the legacy parts of the codebase, each of our Jahia modules have their own repository, named identically (or similarly) to the module ID. 
+
+You can also repository topics available from [Jahia Organization](https://github.com/Jahia) (right side of the screen) to quickly access the list of product modules. 
+
+## Licenses
 
 Historically Jahia has been distributing its codebase under a dual licensing model using GPLv3, and Jahia's JSEL (Enterprise) license. As the software (and the open-source) industry evolves, we are taking steps towards modernizing our practices. 
 
@@ -14,7 +20,7 @@ Over the past few months, we've been taking the time to review our practices and
 
 In the future, our license of choice for our Open-Source codebase will be [Apache version 2.0](https://www.apache.org/licenses/LICENSE-2.0), with some of our front-end oriented components distributed under [MIT](https://opensource.org/licenses/MIT). 
 
-Watch for the license file in each of our repository to better understand which license currently applies to the codebase.
+Watch for the `LICENSE` file in each of our repository to better understand which license currently applies to the codebase.
 
 ## Contribute
 
