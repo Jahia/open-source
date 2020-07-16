@@ -26,6 +26,24 @@ Watch for the `LICENSE` file in each of our repository to better understand whic
 
 Alongside working taking place on our Open-Source strategy, we are currently actively working at revising (and clarifying) our contributing guidelines. Expect more in the coming months.
 
+## Fork
+
+Although we encourage developers to first submit issues (and subsequently Pull-Requests) to our supported codebases (core or modules), there might come a time when a divergence of vision for the future of a module would result in [forking](https://en.wikipedia.org/wiki/Fork_(software_development). 
+
+May the decision to fork be taken, we would recommend the following practices:
+* Update the module group ID, for example by changing it from `org.jahia.modules` to `org.jahia-community.modules`
+* Bump up your first release to the next major version, for example if the last module release was `2.4.0`, the first forked release could be `3.0.0`.
+* Prefer [GitHub Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) feature, instead of creating a new repository and copying the code. This would allow users and developers to find your fork by navigating through Jahia's organization.
+* Don't forget to include changelog notes, to make it easy for future consumers of your forked module to understand how it diverges from Jahia's.
+
 ## Community
 
 Over the years, Jahia has built a community of passionate users and developers. You can find more detauls about how Jahia is supporting the community on the [Academy](https://academy.jahia.com/community)
+
+### Modules development
+
+As an alterantive to forking, and only applicable to modules Jahia no-longer officially supports, Jahia offer users to maintain "community" repositories within its organization, those modules are self-managed by the community (and not officially supported by Jahia). This allow this modules to benefit from Jahia's infrastructure during their development (such as access to Jahia's CI/CD platform).
+
+You can find those modules using the [community topic](https://github.com/search?q=topic%3Acommunity+org%3AJahia).
+
+This would be further detailed on the [Academy Community](https://academy.jahia.com/community) page mentioned earlier.
