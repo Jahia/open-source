@@ -30,7 +30,7 @@ Alongside working taking place on our Open-Source strategy, we are currently act
 
 Although we encourage developers to first submit issues (and subsequently Pull-Requests) to our supported codebases (core or modules), there might come a time when a divergence of vision for the future of a module would result in [forking](https://en.wikipedia.org/wiki/Fork_(software_development)). 
 
-May the decision to fork be taken, we would recommend the following practices:
+May the decision to fork be taken, Jahia recommends the following practices:
 * Update the module group ID, for example by changing it from `org.jahia.modules` to `org.jahia-community.modules`
 * Bump up your first release to the next major version, for example if the last module release was `2.4.0`, the first forked release could be `3.0.0`.
 * Prefer [GitHub Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) feature, instead of creating a new repository and copying the code. This would allow users and developers to find your fork by navigating through Jahia's organization.
