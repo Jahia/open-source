@@ -38,7 +38,7 @@ May the decision to fork be taken, Jahia recommends the following practices:
 
 ## Community
 
-Over the years, Jahia has built a community of passionate users and developers. You can find more detauls about how Jahia is supporting the community on the [Academy](https://academy.jahia.com/community)
+Over the years, Jahia has built a community of passionate users and developers. You can find more details about how Jahia is supporting the community on the [Academy](https://academy.jahia.com/community)
 
 ### Modules development
 
