@@ -42,8 +42,6 @@ Over the years, Jahia has built a community of passionate users and developers. 
 
 ### Modules development
 
-As an alterantive to forking, and only applicable to modules Jahia no-longer officially supports, Jahia offer users to maintain "community" repositories within its organization, those modules are self-managed by the community (and not officially supported by Jahia). This allow this modules to benefit from Jahia's infrastructure during their development (such as access to Jahia's CI/CD platform).
+Jahia welcomes the community to take over active development of modules Jahia no-longer officially supports. Such modules and their corresponding codebases can easily be found using the [community topic](https://github.com/search?q=topic%3Acommunity+org%3AJahia).
 
-You can find those modules using the [community topic](https://github.com/search?q=topic%3Acommunity+org%3AJahia).
-
-This would be further detailed on the [Academy Community](https://academy.jahia.com/community) page mentioned earlier.
+Do not hesitate to reach-out if you would like your forked module to be listed in the readme of the community module.
