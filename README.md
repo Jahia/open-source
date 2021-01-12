@@ -24,7 +24,7 @@ Watch for the `LICENSE` file in each of our repository to better understand whic
 
 ## Contribute
 
-Alongside working taking place on our Open-Source strategy, we are currently actively working at revising (and clarifying) our contributing guidelines. Expect more in the coming months.
+Alongside work taking place on our Open-Source strategy, we are currently actively working at revising (and clarifying) our contributing guidelines. Expect more in the coming months.
 
 ## Fork
 
