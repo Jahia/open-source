@@ -2,7 +2,7 @@
     <img src="https://www.jahia.com/modules/jahiacom-templates/images/jahia-3x.png" alt="Jahia logo" title="Jahia" align="right" height="60" />
 </a>
 
-[[ Module Name ]]
+[[ Module name ]]
 ======================
 [[ Module description ]] 
 
