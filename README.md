@@ -58,7 +58,10 @@ Before doing such changes, please create a ticket in the [OPENCODE project](http
 
 You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
 
-If you're converting an Enterprise module to Open-Source and once approval has been obtained in the OPENCODE ticket, please make sure the new repository contains the Open-Source foorter as available in [this sample](./README_OpenSource.md)
+If you're converting an Enterprise module to Open-Source and once approval has been obtained in the OPENCODE ticket, please make sure the new repository's contains, at a minimum:
+
+* A Readme with the Open-Source footer as available in [this sample](./README_OpenSource.md)
+* A `LICENSE` file (Apache2 or MIT)
 
 ## End of Support
 
