@@ -58,6 +58,8 @@ Before doing such changes, please create a ticket in the [OPENCODE project](http
 
 You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
 
+If you're converting an Enterprise module to Open-Source and once approval has been obtained in the OPENCODE ticket, please make sure the new repository contains the Open-Source foorter as available in [this sample](./README_OpenSource.md)
+
 ## End of Support
 
 As mentioned earlier in this document, there might come a time when Jahia decides to stop supporting an Open-Source or Enterprise module and halt active development. 
@@ -67,7 +69,7 @@ The process below details the steps to be following in such situations:
 ### Open-Source module
 
 * Make sure the license is properly set (Apache2 or MIT)
-* Make sure the repository readme contains the "Open-Source" section and create the "Archived" section
+* Make sure the repository readme contains the "Open-Source" section and create the "Archived" section [see this sample](./README_Archived.md)
 * Update the repository's topics, remove "supported" and add "community"
 * Archive the repository
 
