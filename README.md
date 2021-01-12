@@ -60,7 +60,9 @@ You can reach out to the [Open-Source team on slack](https://jahia.slack.com/arc
 
 ## End of Support
 
-As mentioned earlier in this document, there might come a time when Jahia decides to stop officially supporting an Open-Source or Enterprise module. When doing so, please follow this process:
+As mentioned earlier in this document, there might come a time when Jahia decides to stop supporting an Open-Source or Enterprise module and halt active development. 
+
+The process below details the steps to be following in such situations:
 
 ### Open-Source module
 
