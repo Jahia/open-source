@@ -52,11 +52,9 @@ The following section is aimed at being used by Jahia employees and is detailed 
 
 ## Modifying a license or repository visibility
 
-Modifying a license or changing the repository visibility (PUBLIC / PRIVATE) is a sensitive topic and there is critical to make sure that such decision is supported at a company level.
+Modifying a license or changing the repository visibility (PUBLIC / PRIVATE) is a sensitive topic and it is critical to make sure that such a decision is supported at a company level.
 
-Before doing such changes, please create a ticket in the [OPENCODE project](https://jira.jahia.org/projects/OPENCODE/issues), a template will assist you in populating the ticket with the necessary details.  
-
-You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
+Please create a ticket in the [OPENCODE project](https://jira.jahia.org/projects/OPENCODE/issues), a template will assist you in populating the ticket with the necessary details. You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
 
 If you're converting an Enterprise module to Open-Source and once approval has been obtained in the OPENCODE ticket, please make sure the new repository's contains, at a minimum:
 
@@ -65,7 +63,7 @@ If you're converting an Enterprise module to Open-Source and once approval has b
 
 ## End of Support
 
-As mentioned earlier in this document, there might come a time when Jahia decides to stop supporting an Open-Source or Enterprise module and halt active development. 
+As mentioned earlier in this document, there might come a time when Jahia decides to stop supporting an Open-Source or Enterprise module and halt its active development. 
 
 The process below details the steps to be following in such situations:
 
