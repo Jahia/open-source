@@ -48,7 +48,7 @@ Do not hesitate to reach-out if you would like your forked module to be listed i
 
 ## Jahia internal
 
-The following section is aimed at being used by Jahia employees and is detailed here to provide some insights about our internal processes.
+The following section is aimed at being used by Jahia employees and is detailed here to provide insights about our internal processes.
 
 ## Modifying a license or repository visibility
 
@@ -56,14 +56,14 @@ Modifying a license or changing the repository visibility (PUBLIC / PRIVATE) is 
 
 Please create a ticket in the [OPENCODE project](https://jira.jahia.org/projects/OPENCODE/issues), a template will assist you in populating the ticket with the necessary details. You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
 
-If you're converting an Enterprise module to Open-Source and once approval has been obtained in the OPENCODE ticket, please make sure the new repository's contains, at a minimum:
+If you're converting an Enterprise module to Open-Source and, once approval has been obtained in the OPENCODE ticket, please make sure the new repository's contains, at a minimum:
 
 * A Readme with the Open-Source footer as available in [this sample](./README_OpenSource.md)
 * A `LICENSE` file (Apache2 or MIT)
 
 ## End of Support
 
-As mentioned earlier in this document, there might come a time when Jahia decides to stop supporting an Open-Source or Enterprise module and halt its active development. 
+As mentioned earlier in this document, there might come a time when Jahia's product team decides to stop supporting an Open-Source or Enterprise module and halt its active development. 
 
 The process below details the steps to be following in such situations:
 
@@ -77,11 +77,9 @@ The process below details the steps to be following in such situations:
 ### Enterprise module
 
 * Create an [OPENCODE](https://jira.jahia.org/projects/OPENCODE/issues) ticket to enquire whether this module can be made Open-Source
-* Convert the module's license to either Apache2 or MIT
-* Update the Repository's readme with the "Open-Source" and "Archived" sections
-* Update the repository's topics, remove "supported" and add "community"
-* Archive the repository
-
-
-
-
+* If NO: Archive the repository
+* If YES:
+  * Convert the module's license to either Apache2 or MIT
+  * Update the Repository's readme with the "Open-Source" and "Archived" sections
+  * Update the repository's topics, remove "supported" and add "community"
+  * Archive the repository
