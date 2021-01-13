@@ -80,6 +80,6 @@ The process below details the steps to be following in such situations:
 * If NO: Archive the repository
 * If YES:
   * Convert the module's license to either Apache2 or MIT
-  * Update the Repository's readme with the "Open-Source" and "Archived" sections
+  * Update the Repository's readme with the "Open-Source" and "Archived" sections [see this sample](./README_Archived.md)
   * Update the repository's topics, remove "supported" and add "community"
   * Archive the repository
