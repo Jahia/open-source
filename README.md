@@ -45,3 +45,41 @@ Over the years, Jahia has built a community of passionate users and developers. 
 Jahia welcomes the community to take over active development of modules Jahia no-longer officially supports. Such modules and their corresponding codebases can easily be found using the [community topic](https://github.com/search?q=topic%3Acommunity+org%3AJahia).
 
 Do not hesitate to reach-out if you would like your forked module to be listed in the readme of the community module.
+
+## Jahia internal
+
+The following section is aimed at being used by Jahia employees and is detailed here to provide insights about our internal processes.
+
+## Modifying a license or repository visibility
+
+Modifying a license or changing the repository visibility (PUBLIC / PRIVATE) is a sensitive topic and it is critical to make sure that such a decision is supported at a company level.
+
+Please create a ticket in the [OPENCODE project](https://jira.jahia.org/projects/OPENCODE/issues), a template will assist you in populating the ticket with the necessary details. You can reach out to the [Open-Source team on slack](https://jahia.slack.com/archives/CRNNE2J6T) may you have questions.
+
+If you're converting an Enterprise module to Open-Source and, once approval has been obtained in the OPENCODE ticket, please make sure the new repository's contains, at a minimum:
+
+* A Readme with the Open-Source footer as available in [this sample](./README_OpenSource.md)
+* A `LICENSE` file (Apache2 or MIT)
+
+## End of Support
+
+As mentioned earlier in this document, there might come a time when Jahia's product team decides to stop supporting an Open-Source or Enterprise module and halt its active development. 
+
+The process below details the steps to be following in such situations:
+
+### Open-Source module
+
+* Make sure the license is properly set (Apache2 or MIT)
+* Make sure the repository readme contains the "Open-Source" section and create the "Archived" section [see this sample](./README_Archived.md)
+* Update the repository's topics, remove "supported" and add "community"
+* Archive the repository
+
+### Enterprise module
+
+* Create an [OPENCODE](https://jira.jahia.org/projects/OPENCODE/issues) ticket to enquire whether this module can be made Open-Source
+* If NO: Archive the repository
+* If YES:
+  * Convert the module's license to either Apache2 or MIT
+  * Update the Repository's readme with the "Open-Source" and "Archived" sections [see this sample](./README_Archived.md)
+  * Update the repository's topics, remove "supported" and add "community"
+  * Archive the repository
